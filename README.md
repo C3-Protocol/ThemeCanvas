@@ -22,3 +22,6 @@ dfx config --help
 * dfx canister --network ic create --all
 * dfx build --network ic
 * dfx deploy --network ic
+
+* MainNet
+https://skeh5-daaaa-aaaai-aar4q-cai.raw.ic0.app/#/canvas/theme/xft5j-ziaaa-aaaah-qclpq-cai
