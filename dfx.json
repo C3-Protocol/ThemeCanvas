@@ -1,0 +1,29 @@
+{
+  "canisters": {
+    "themeNFT": {
+      "main": "src/PixelCanvas/factory/themeNFT.mo",
+      "type": "motoko"
+    },
+    "themeCanvas": {
+      "main": "src/PixelCanvas/canvas/themeCanvas.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": ""
+    }
+  },
+  "dfx": "0.8.0",
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    },
+    "dev": {
+      "bind": "127.0.0.1:8001",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}
