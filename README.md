@@ -18,3 +18,7 @@ cd PixelCanvas/
 dfx help
 dfx config --help
 ```
+
+* dfx canister --network ic create --all
+* dfx build --network ic
+* dfx deploy --network ic
